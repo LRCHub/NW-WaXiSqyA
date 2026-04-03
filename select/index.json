@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ただ､ありがとう",
   "base_artist": "MONKEY MAJIK",
-  "createdAt": "2026-04-03T14:49:19.885873Z",
+  "createdAt": "2026-04-03T14:51:42.794300Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,15 @@
       "artist": "MONKEY MAJIK",
       "has_synced": false,
       "path": "select/pl_01_ただ、ありがとう_MONKEY_MAJIK.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ただ､ありがとう",
+      "artist": "MONKEY MAJIK",
+      "has_synced": false,
+      "path": "select/localdb_01_ただ、ありがとう_MONKEY_MAJIK.txt",
+      "repo_name": "NW-WaXiSqyA"
     }
   ]
 }
