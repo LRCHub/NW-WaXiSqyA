@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ただ､ありがとう",
+  "base_artist": "MONKEY MAJIK",
+  "createdAt": "2026-04-03T14:49:19.885873Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ただ､ありがとう",
+      "artist": "MONKEY MAJIK",
+      "has_synced": true,
+      "path": "select/01_ただ、ありがとう_MONKEY_MAJIK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ただ、ありがとう",
+      "artist": "Monkey Majik",
+      "has_synced": false,
+      "path": "select/02_ただ、ありがとう_Monkey_Majik.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ただ、ありがとう",
+      "artist": "MONKEY MAJIK",
+      "has_synced": false,
+      "path": "select/pl_01_ただ、ありがとう_MONKEY_MAJIK.txt"
+    }
+  ]
+}
